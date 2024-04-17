@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshpatra" alt="rakeshpatra" /> </p>
 
-- 🔭 I’m currently working at [BigBinary](https://www.bigbinary.com/).
+- 🔭 I’m currently working at [Fountain](https://www.fountain.com/).
 
 - 🌱 I’m currently learning **Node.js**.
 
